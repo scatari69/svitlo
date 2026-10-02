@@ -13,3 +13,4 @@ dist/
 .agents/
 .aws/
 .codex/
+*.bundle
